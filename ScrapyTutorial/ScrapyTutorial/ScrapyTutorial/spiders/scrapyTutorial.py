@@ -31,7 +31,7 @@ class ToScrapeSpiderXPath(scrapy.Spider):
 
     def parse(self, response):
         title = response.xpath('.//h1[@class="title-page detail"]/text()').extract_first()
-        content = response.xpath('.//div[@class="singular-content"]/p/text()').extract(),
+        content = response.xpath("//article[@class='singular-container']/h2[@class='singular-sapo'] | //article[@class='singular-container']/div[@class='singular-content']").extract(),
         time = response.xpath('.//div[@class="author-wrap"]/time[@class="author-time"]/text()').extract_first(),
         figure = response.xpath('.//div[@class="singular-content"]/figure[@class="image align-center"]/img/@src').extract(),
         print('tieu de: ', title)
