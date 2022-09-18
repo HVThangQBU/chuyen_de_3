@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5add440f-fba2-49fb-96ef-66f61fff2ca8" name="Changes" comment="commit" />
+    <list default="true" id="5add440f-fba2-49fb-96ef-66f61fff2ca8" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/chuyen_de_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chuyen_de_3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/hoang/PycharmProjects/chuyen_de_3",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,6 +52,9 @@
       <workItem from="1662943736719" duration="1028000" />
       <workItem from="1663496488293" duration="233000" />
       <workItem from="1663497728241" duration="379000" />
+      <workItem from="1663522814581" duration="95000" />
+      <workItem from="1663522925264" duration="557000" />
+      <workItem from="1663523548760" duration="544000" />
     </task>
     <task id="LOCAL-00001" summary="commit scrapy">
       <created>1662907143587</created>
@@ -188,8 +195,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/pythonScrapy" />
+    </ignored-roots>
     <MESSAGE value="commit scrapy" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chuyen_de_3$testSQL.coverage" NAME="testSQL Coverage Results" MODIFIED="1663523823144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonScrapy/tutorial/tutorial/spiders" />
   </component>
 </project>
