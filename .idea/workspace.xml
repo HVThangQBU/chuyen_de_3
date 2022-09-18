@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5add440f-fba2-49fb-96ef-66f61fff2ca8" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/.idea/ScrapyTutorial.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/ScrapyTutorial/spiders/scrapyTutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/ScrapyTutorial/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScrapyTutorial/Screenshot (4).png" beforeDir="false" />
-    </list>
+    <list default="true" id="5add440f-fba2-49fb-96ef-66f61fff2ca8" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hoang/PycharmProjects/chuyen_de_3/pythonScrapy",
+    "last_opened_file_path": "C:/Users/hoang/PycharmProjects/chuyen_de_3",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -65,6 +47,7 @@
       <workItem from="1662909632954" duration="1222000" />
       <workItem from="1662943736719" duration="1028000" />
       <workItem from="1663496488293" duration="233000" />
+      <workItem from="1663497728241" duration="379000" />
     </task>
     <task id="LOCAL-00001" summary="commit scrapy">
       <created>1662907143587</created>
